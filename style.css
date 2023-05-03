@@ -1,0 +1,26 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+input
+{
+    border-radius: 5px;
+    width: 120px;
+    margin-bottom: 10px;
+}
+.invalida
+{
+    border: 2px rgb(211,0,0)solid;
+}
+.mensagem_sucesso
+{
+    background-color: rgb(154,255,154);
+    color: rgb(2,78,2);
+}
+.mensagem_erro
+{
+    background-color: rgb(255,187,187);
+    color: rgb(255,0,0);
+}
